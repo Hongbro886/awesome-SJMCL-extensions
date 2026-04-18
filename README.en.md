@@ -24,15 +24,18 @@ Contributions are welcome. Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) 
 
 ## Table of Contents
 
-- [Integrations](#integrations)
+- [Examples](#examples)
 - [UI Enhancements](#ui-enhancements)
+- [Appearance & Themes](#appearance--themes)
 - [Productivity Tools](#productivity-tools)
+- [News & Info](#news--info)
+- [Entertainment & Mini-games](#entertainment--mini-games)
 - [AI & LLM](#ai--llm)
 - [Others](#others)
 
 ---
 
-## Integrations
+## Examples
 
 - **[Clock](org.sjmcl.clock/)** — A minimal extension that displays a live clock in the launcher UI.
 
@@ -40,7 +43,19 @@ Contributions are welcome. Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) 
 
 _Nothing here yet. Submit yours!_
 
+## Appearance & Themes
+
+_Nothing here yet. Submit yours!_
+
 ## Productivity Tools
+
+_Nothing here yet. Submit yours!_
+
+## News & Info
+
+_Nothing here yet. Submit yours!_
+
+## Entertainment & Mini-games
 
 _Nothing here yet. Submit yours!_
 
